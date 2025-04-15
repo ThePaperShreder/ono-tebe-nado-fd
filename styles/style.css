@@ -281,7 +281,7 @@
   justify-content: center;
 }
 
-.footer__social-list{
+.footer__social-list {
   width: 240px;
   display: flex;
   justify-content: space-between;
