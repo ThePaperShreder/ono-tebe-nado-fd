@@ -293,15 +293,3 @@
   height: 48px;
   list-style: none;
 }
-
-.footer__social-icon-left {
-  background-image: url(../images/yt.svg);
-}
-
-.footer__social-icon-center {
-  background-image: url(../images/vk.svg);
-}
-
-.footer__social-icon-right {
-  background-image: url(../images/pinterest.svg);
-}
